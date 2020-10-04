@@ -21,6 +21,17 @@ h1 {
   text-transform: uppercase;
 }
 
+.btn-primary {
+  background-color: #f05f44;
+  border-color: #f05f44;
+}
+
+.btn-primary:hover {
+  background-color: #ee4b08;
+  border-color: #ee4b08;
+  border-width: 4px;
+}
+
 .btn-xl {
   padding: 1rem 2rem;
 }
