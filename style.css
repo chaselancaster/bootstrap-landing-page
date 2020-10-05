@@ -56,3 +56,8 @@ hr {
   height: 40rem;
   width: 40rem;
 }
+
+#footer {
+  background-color: rgb(58, 53, 63);
+  color: white;
+}
